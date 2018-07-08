@@ -6,10 +6,10 @@ import twitter4j.conf.ConfigurationBuilder;
 
 public class TwitterHandle {
 	
-	private static final String AUTH_CONSUMER_KEY = "6Mxclen2F4BR48FbW6DxDz8WW";
-	private static final String AUTH_CONSUMER_SECRET ="I6u0bIIgS5rnTvXoHRl7634pqq5cwZvDqngMqIkZjkgFs68TcW";
-	private static final String AUTH_ACCESS_TOKEN ="3494884994-CLBotjHDercrbbHGcWQs0TkcAoOIRl2i4W9lmpl";
-	private static final String AUTH_ACCESS_TOKEN_SECRET ="b6z0HEAP2UVjY9W8iUU4A8O57DFFaxQ0K8l9RCBoIv6CK";
+	private static final String AUTH_CONSUMER_KEY = <The consumer key>;
+	private static final String AUTH_CONSUMER_SECRET =<The consumer secret>;
+	private static final String AUTH_ACCESS_TOKEN =<The access token>;
+	private static final String AUTH_ACCESS_TOKEN_SECRET =<The access token secret>;
 	static Configuration conf;
 	static
     {
